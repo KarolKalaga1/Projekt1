@@ -12,9 +12,10 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 
 /**
- *
- * @author Karol
+ *Stores dictionaries in sortedSet structures and TreeMap for easy access to the database of words.
+ *Class structures used to store and retrieve their dictionaries in need of content.
  */
+
 public class DictionarManager {
      /**
      * Dictionar1 is a TreeMap has a word to which we can appeal with the key.

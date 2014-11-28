@@ -10,9 +10,8 @@ import javax.swing.event.DocumentListener;
 import javax.swing.table.DefaultTableModel;
 
 /**
- * Includes a user interface to control program easy. Stores dictionaries sorted
- * structures and TreeMap for easy access to the database of words. Include
- * class that supports ProgressBar.
+ * Includes a user interface to control program easy. 
+ * Include class that supports ProgressBar.
  * @author Karol Kalaga
  */
 public class Dictionar extends javax.swing.JFrame {
